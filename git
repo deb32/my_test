@@ -1,6 +1,6 @@
 echo "# my_test" >> README.md
 git init
-# for test_git
+# for test_git !!!
 git add README.md
 git commit -m "first commit"
 git branch -M main
